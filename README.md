@@ -7,9 +7,9 @@
 
 <h3 align="left">Talking about personal stuff:</h3>
 
-- 🔭 I’m currently working on [react native](https://github.com/facebook/react-native)
+- 🔭 I’m currently working on [Next Js](https://github.com/facebook/react-native)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m learning **React Native**
 
 - 👯 I’m looking to collaborate on [callStack](https://github.com/callstack)
 
