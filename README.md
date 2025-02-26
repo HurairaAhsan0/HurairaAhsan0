@@ -28,7 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hurairaahsan0&show_icons=true&locale=en&layout=compact" alt="hurairaahsan0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hurairaahsan0&show_icons=true&locale=en" alt="hurairaahsan0" /></p>
 
 <p><img align="left" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="hurairaahsan0" /></p>
 
